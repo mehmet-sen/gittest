@@ -9,4 +9,8 @@ public class Main {
     public static  void testMethod(){
         System.out.println();
     }
+
+    public static  void testMethod2(){
+        System.out.println();
+    }
 }
